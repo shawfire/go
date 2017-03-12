@@ -1,4 +1,4 @@
-# go
+# The Go lanaguage aka Golang
 
 [golang online repl and reference](https://golang.org/)
 Code in the online repl runs in a sanbox, same time, no web server or file access.
@@ -45,7 +45,6 @@ panic(error) - stops execution and displays error message
 recover() - manages behavior of a panicking goroutine
 
 ## Go command line - create an executable (on a mac)
-+ Documentation 
 ```
 $ godoc
 $ godoc fmt
