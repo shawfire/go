@@ -1,4 +1,4 @@
-# The Go lanaguage aka Golang
+# The Go language aka Golang
 
 [golang online repl and reference](https://golang.org/)
 Code in the online repl runs in a sanbox, same time, no web server or file access.
